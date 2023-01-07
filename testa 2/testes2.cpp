@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main (void){
 	
 	char nome [60] , apelido [10] ;
@@ -11,7 +12,13 @@ int main (void){
 	
 	float altura; 
 	
-		
+	
+	
+	
+	
+	 
+	
+	
   printf ("\nESCREVA SEU NOME :\n");
   fgets(nome,60,stdin);
  
